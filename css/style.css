@@ -25,7 +25,7 @@ body {
 }
 
 .profile-photo {
-  background: url(/img/profile_photo.jpg) no-repeat;
+  background: url(./img/profile_photo.jpg) no-repeat;
   background-size: cover;
   height: var(--profile-photo-height);
 }
